@@ -15,11 +15,9 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: maying931224.github.io/may.github.io
-github_url: https://github.com/may
-cnblog_url: http://www.cnblogs.com/may
-url: http://www.may.com
-enforce_ssl: may.com
+repository: maying931224.github.io/
+github_url: https://github.com/maying931224.github.io
+url: http://www.maying931224.github.io
 
 ## Gem
 plugins:
